@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Tekano.
 
 <!--
 **T3kan0/T3kan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
