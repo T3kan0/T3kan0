@@ -4,6 +4,7 @@
 <p align="center">
     <img width="800" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
 </p> 
+Enthusiastic about merging data insights with the realm of education, I'm currently a Data Analyst at University of Free State, incharge of the Student Learning and Success, A-STEP project. Armed with a Bachelor of Science Honours degree in Astrophysics and currently completing my Master of Science in the same field, I bring a dynamic blend of academic knowledge and practical expertise to the table.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3kan0&label=Profile%20views&color=0e75b6&style=flat" alt="t3kan0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t3kan0" alt="t3kan0" /></a> </p>
