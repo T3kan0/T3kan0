@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tekano Mbonani</h1>
-<h3 align="center">A passionate Data|Statistical|Quantitative Analyst from South Africa</h3>
+<h3 align="center">A passionate Data | Statistical | Quantitative Analyst from South Africa</h3>
 
 <p align="center">
     <img width="800" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
