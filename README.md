@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i.gifer.com/9VPD.gif)
 <h1 align="center">Hi 👋, I'm Tekano Mbonani</h1>
 <h3 align="center">A passionate Data Analyst from South Africa</h3>
 
