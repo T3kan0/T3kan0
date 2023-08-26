@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Data | Statistical | Quantitative Analyst from South Africa</h3>
 
 <p align="center">
-    <img width="800" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
+    <img width="700" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
 </p> 
-Enthusiastic about merging data insights with the realm of education, I'm currently a Data Analyst at University of Free State, incharge of the Student Learning and Success, A-STEP project. Armed with a Bachelor of Science Honours degree in Astrophysics and currently completing my Master of Science in the same field, I bring a dynamic blend of academic knowledge and practical expertise to the table.
-My role encompasses selecting and applying advanced statistical methodologies, crafting robust research proposals, and translating intricate data into actionable insights. By doing so, I actively contribute to refining project outcomes and facilitating well-informed decision-making through data.
+Enthusiastic about merging data insights with the realm of education, I'm currently a Data Analyst at University of Free State, incharge of the Student Learning and Success, A-STEP project. Armed with a Bachelor of Science Honours degree in Astrophysics and currently completing my Master of Science in the same field, I bring a dynamic blend of academic knowledge and practical expertise to the table. My role encompasses selecting and applying advanced statistical methodologies, crafting robust research proposals, and translating intricate data into actionable insights. By doing so, I actively contribute to refining project outcomes and facilitating well-informed decision-making through data.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3kan0&label=Profile%20views&color=0e75b6&style=flat" alt="t3kan0" /> </p>
 
