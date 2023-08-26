@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tekano Mbonani</h1>
 <h3 align="center">A passionate Data Analyst from South Africa</h3>
 <p align="center">
-    <img width="400" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
+    <img width="600" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
 </p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3kan0&label=Profile%20views&color=0e75b6&style=flat" alt="t3kan0" /> </p>
