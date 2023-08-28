@@ -3,7 +3,7 @@
 
 <p align="justify"> Enthusiastic about merging data insights with the realm of education, I'm currently a Data Analyst at the University of Free State, incharge of the Academic Student Tutorial and Excellence Project (A-STEP) for the Centre for Teaching and Learning. Armed with a Bachelor of Science Honours degree in Astrophysics and currently completing my Master of Science in the same field, I bring a dynamic blend of academic knowledge and practical expertise to the table. My role encompasses selecting and applying advanced statistical methodologies, crafting robust research proposals, and translating intricate data into actionable insights. By doing so, I actively contribute to refining project outcomes and facilitating well-informed decision-making through data.</p>
 <br> <p aliign="justify"> Additionally, I am a Lecturer and a Researcher. In my previous role, I was a Teaching Assistant for the first entry level modules UFSS1514 and UFSS1526, at the University of Free State. I have also been a Student Assistant, a Tutor, as well as a Research Assistant. </br> </p>
-
+----
 <p align="center">
     <img width="700" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
 </p> 
