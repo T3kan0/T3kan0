@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data | Statistical | Quantitative Analyst from South Africa</h3>
 
 Enthusiastic about merging data insights with the realm of education, I'm currently a Data Analyst at the University of Free State, incharge of the Academic Student Tutorial and Excellence Project (A-STEP) for the Centre for Teaching and Learning. Armed with a Bachelor of Science Honours degree in Astrophysics and currently completing my Master of Science in the same field, I bring a dynamic blend of academic knowledge and practical expertise to the table. My role encompasses selecting and applying advanced statistical methodologies, crafting robust research proposals, and translating intricate data into actionable insights. By doing so, I actively contribute to refining project outcomes and facilitating well-informed decision-making through data.
-<br> Additionally, I am a Lecturer. In my previous role, I was a Teaching Assistant for the first entry level modules UFSS1514 and UFSS1526, at the University of Free State. 
+<br> Additionally, I am a Lecturer. In my previous role, I was a Teaching Assistant for the first entry level modules UFSS1514 and UFSS1526, at the University of Free State. I have also been a Student Assistant, as well as a Tutor.
 
 
 <p align="center">
