@@ -5,7 +5,7 @@
 <br> <p aliign="justify"> Additionally, I am a Lecturer and a Researcher. In my previous role, I was a Teaching Assistant for the first entry level modules UFSS1514 and UFSS1526, at the University of Free State. I have also been a Student Assistant, a Tutor, as well as a Research Assistant at CLT and the Deparment of Physics. </br> </p>
 
 <p align="center">
-    <img width="700" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
+    <img width="600" src="https://github.com/T3kan0/T3kan0/blob/main/9VPD.gif" alt="Material Bread logo">
 </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3kan0&label=Profile%20views&color=0e75b6&style=flat" alt="t3kan0" /> </p>
