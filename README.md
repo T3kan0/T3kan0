@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t3kan0" alt="t3kan0" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, Django, Flask, Streamlit**
+- 🌱 I’m currently learning **SQL, Django, Flask**
 
 - 📫 How to reach me **mbonanits@ufs.ac.za/tekano.motsoari@gmail.com**
 
